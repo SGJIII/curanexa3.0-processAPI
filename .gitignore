@@ -1,0 +1,9 @@
+__pycache__
+.ipynb_checkpoints
+*.egg-info
+*.pkl
+*.mp4
+*.png
+*.DS_Store
+venv/
+venv_new/
