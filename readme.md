@@ -1,0 +1,1 @@
+This takes an image from the frontend, sends it to the backend model, then sends the results back to the frontend. 
